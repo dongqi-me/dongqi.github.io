@@ -9,7 +9,7 @@ papers:
     selected: y
 
   - title: "Two-Stage Movie Scripts Summarization: An Efficient Method For Low-resource Long Documents Summarization"
-    authors: "<b>Dongqi Pu</b>, Xudong Hong, Pin-Jie Lin, Ernie Chang and Vera Demberg"
+    authors: "<b>Dongqi Pu<sup>‡</sup></b>, Xudong Hong<sup>‡</sup>, Pin-Jie Lin<sup>‡</sup>, Ernie Chang and Vera Demberg"
     venue: "The 29th International Conference on Computational Linguistics"
 #    paper_pdf: "/assets/publications/2021_dtox/paper.pdf"
 #     code: "https://github.com/msaveski/toxic_conversation_structure"
