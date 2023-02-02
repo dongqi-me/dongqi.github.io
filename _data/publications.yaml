@@ -3,16 +3,13 @@ papers:
   - title: "Passing Parser Uncertainty to the Transformer: Labeled Dependency Distributions for Neural Machine Translation"
     authors: "<b>Dongqi Pu</b>, Khalil Sima'an"
     venue: "Proceedings of the 23rd Annual Conference of the European Association for Machine Translation"
-    paper_pdf: "/assets/publications/EAMT2022/paper.pdf"
+    paper_pdf: "https://aclanthology.org/2022.eamt-1.7/"
     slides: "/assets/publications/EAMT2022/slides.pdf"
     poster: "/assets/publications/EAMT2022/poster.pdf"
     selected: y
 
   - title: "Two-Stage Movie Scripts Summarization: An Efficient Method For Low-resource Long Documents Summarization"
     authors: "<b>Dongqi Pu<sup>‡</sup></b>, Xudong Hong<sup>‡</sup>, Pin-Jie Lin<sup>‡</sup>, Ernie Chang and Vera Demberg"
-    venue: "The 29th International Conference on Computational Linguistics"
-#    paper_pdf: "/assets/publications/2021_dtox/paper.pdf"
-#     code: "https://github.com/msaveski/toxic_conversation_structure"
-#     data: "https://doi.org/10.7910/DVN/TRWPVB"
-#     video: "https://www.youtube.com/watch?v=JLkUgxH92pE"
-#     selected: n
+    venue: "Proceedings of The Workshop on Automatic Summarization for Creative Writing"
+    paper_pdf: "https://aclanthology.org/2022.creativesumm-1.9/"
+    selected: y
