@@ -2,7 +2,7 @@ papers:
   - title: "Incorporating Distributions of Discourse Structure for Long Document Abstractive Summarization"
     authors: "<b>Dongqi Pu</b>, Yifan Wang, and Vera Demberg"
     venue: "To appear in Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)"
-#    paper_pdf: "https://aclanthology.org/2022.eamt-1.7/"
+    abstract: "projects/RSTformer.html"
 #    slides: "/assets/publications/EAMT2022/slides.pdf"
 #    poster: "/assets/publications/EAMT2022/poster.pdf"
     selected: y
