@@ -7,13 +7,22 @@ papers:
 #    slides: "/assets/publications/EAMT2022/slides.pdf"
 #    poster: "/assets/publications/EAMT2022/poster.pdf"
     selected: y
+    
+   - title: "ChatGPT vs Human-authored Text: Insights into Controllable Text Summarization and Sentence Style Transfer"
+    authors: "<b>Dongqi Pu</b>, Vera Demberg"
+    venue: "To appear in Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics: Student Research Workshop (ACL SRW 2023)"
+#    paper_pdf: "https://aclanthology.org/2022.eamt-1.7/"
+    info: "projects/ChatGPT_vs_Human"
+#    slides: "/assets/publications/EAMT2022/slides.pdf"
+#    poster: "/assets/publications/EAMT2022/poster.pdf"
+    selected: y
 
   - title: "Passing Parser Uncertainty to the Transformer: Labeled Dependency Distributions for Neural Machine Translation"
     authors: "<b>Dongqi Pu</b>, Khalil Sima'an"
     venue: "Proceedings of the 23rd Annual Conference of the European Association for Machine Translation"
     paper_pdf: "https://aclanthology.org/2022.eamt-1.7/"
-    slides: "/assets/publications/EAMT2022/slides.pdf"
-    poster: "/assets/publications/EAMT2022/poster.pdf"
+#     slides: "/assets/publications/EAMT2022/slides.pdf"
+#     poster: "/assets/publications/EAMT2022/poster.pdf"
     selected: y
 
   - title: "Two-Stage Movie Scripts Summarization: An Efficient Method For Low-resource Long Documents Summarization"
