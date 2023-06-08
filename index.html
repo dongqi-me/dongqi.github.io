@@ -148,6 +148,11 @@ title: Home
             {% if paper.code %}
               <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
             {% endif %}
+             
+           {% if paper.info %}
+              <a class="button" href="{{ paper.info }}" target="_blank">Info</a>
+           {% endif %}
+             
           </div>
         </div>
       {% endfor %}
