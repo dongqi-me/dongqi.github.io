@@ -5,7 +5,7 @@ papers:
 #    paper_pdf: "https://aclanthology.org/2022.eamt-1.7/"
     info: "projects/RSTformer"
 #    slides: "/assets/publications/EAMT2022/slides.pdf"
-#    poster: "/assets/publications/EAMT2022/poster.pdf"
+    poster: "/assets/publications/ACL2023/ACL_Poster.pdf"
     selected: y
     
   - title: "ChatGPT vs Human-authored Text: Insights into Controllable Text Summarization and Sentence Style Transfer"
@@ -14,7 +14,7 @@ papers:
     paper_pdf: "/assets/publications/ACL2023/ACL_SRW_Paper.pdf"
     info: "projects/ChatGPT_vs_Human"
 #    slides: "/assets/publications/EAMT2022/slides.pdf"
-#    poster: "/assets/publications/EAMT2022/poster.pdf"
+    poster: "/assets/publications/ACL2023/ACL_SRW_Poster.pdf"
     selected: y
 
   - title: "Two-Stage Movie Scripts Summarization: An Efficient Method For Low-resource Long Documents Summarization"
