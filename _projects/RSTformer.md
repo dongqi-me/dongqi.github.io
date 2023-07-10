@@ -32,6 +32,14 @@ For text summarization, the role of discourse structure is pivotal in discerning
 </pre>
 
 
+<style>
+    .reference {
+        overflow-wrap: break-word;
+    }
+</style>
+
+<div class="reference">
+
 @inproceedings{pu-etal-2023-incorporating,
     title = "Incorporating Distributions of Discourse Structure for Long Document Abstractive Summarization",
     author = "Pu, Dongqi and Wang, Yifan and Demberg, Vera",
@@ -41,5 +49,8 @@ For text summarization, the role of discourse structure is pivotal in discerning
     address = "Toronto, Canada",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2023.acl-long.306",
-    pages = "5574--5590"}
+    pages = "5574--5590"
+}
+
+</div>
 
