@@ -14,7 +14,8 @@ For text summarization, the role of discourse structure is pivotal in discerning
     <img src="../assets/publications/ACL2023/RSTformer.png" alt="RSTformer" style="max-width:95%;">
 </div>
 
-
+#### Code:
+Code is available at: https://github.com/dongqi-me/RST_SUMM
 
 #### Citation:
 <pre>
@@ -30,6 +31,3 @@ For text summarization, the role of discourse structure is pivotal in discerning
     pages = "5574--5590"}
 </code>
 </pre>
-
-#### Code:
-Code is available at: https://github.com/dongqi-me/RST_SUMM
