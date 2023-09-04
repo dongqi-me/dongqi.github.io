@@ -32,4 +32,4 @@ For text summarization, the role of discourse structure is pivotal in discerning
 </pre>
 
 #### Code:
-Code is available at:https://github.com/dongqi-me/RST_SUMM
+Code is available at: https://github.com/dongqi-me/RST_SUMM
