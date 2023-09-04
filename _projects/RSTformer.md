@@ -15,7 +15,7 @@ For text summarization, the role of discourse structure is pivotal in discerning
 </div>
 
 #### Code:
-Code is available at: [https://github.com/dongqi-me/RST_SUMM](https://github.com/dongqi-me/RSTformer)
+Code is available at: https://github.com/dongqi-me/RSTformer
 
 #### Citation:
 <pre>
