@@ -16,15 +16,6 @@ Large-scale language models, like ChatGPT, have garnered significant media atten
 
 #### Citation:
 <pre>
-<code>@inproceedings{pu-demberg-2023-chatgpt,
-    title = "{C}hat{GPT} vs Human-authored Text: Insights into Controllable Text Summarization and Sentence Style Transfer",
-    author = "Pu, Dongqi and Demberg, Vera",
-    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop)",
-    month = jul,
-    year = "2023",
-    address = "Toronto, Canada",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2023.acl-srw.1",
-    pages = "1--18"}
+<code>Dongqi Pu and Vera Demberg. 2023. ChatGPT vs Human-authored Text: Insights into Controllable Text Summarization and Sentence Style Transfer. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop), pages 1–18, Toronto, Canada. Association for Computational Linguistics.
 </code>
 </pre>
