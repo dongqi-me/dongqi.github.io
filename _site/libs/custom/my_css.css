@@ -1,3 +1,23 @@
+body {
+    /* 设置基本的字体大小 */
+    font-size: 2vw;
+}
+
+/* 当屏幕宽度小于600px时，设置最小字体大小 */
+@media (max-width: 600px) {
+    body {
+        font-size: 12px; /* 最小字体大小 */
+    }
+}
+
+/* 当屏幕宽度大于1200px时，设置最大字体大小 */
+@media (min-width: 1200px) {
+    body {
+        font-size: 18px; /* 最大字体大小 */
+    }
+}
+
+
 h4 {
   letter-spacing: .1rem; }
 p {
