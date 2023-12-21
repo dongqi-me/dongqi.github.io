@@ -58,6 +58,22 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="icon" type="image/png" href={{ "/libs/icon.png" | prepend: site.baseurl }}>
   <link rel="shortcut icon" type="image/png" href={{ "/libs/icon.png" | prepend: site.baseurl }}>
+  
+  <style>
+    body {
+      font-size: 2vw;
+    }
+    @media (max-width: 600px) {
+      body {
+                font-size: 12px; /* 最小字体大小 */
+            }
+        }
+    @media (min-width: 1200px) {
+      body {
+                font-size: 18px; /* 最大字体大小 */
+            }
+        }
+  </style>
 
 </head>
 <body>
