@@ -26,7 +26,7 @@ papers:
     poster: "/assets/publications/ACL2023/ACL_SRW_Poster.pdf"
     selected: y
 
-  - title: "Two-Stage Movie Scripts Summarization: An Efficient Method For Low-resource Long Documents Summarization"
+  - title: "Two-Stage Movie Scripts Summarization: An Efficient Method for Low-resource Long Documents Summarization"
     authors: "<b>Dongqi Pu<sup>‡</sup></b>, Xudong Hong<sup>‡</sup>, Pin-Jie Lin<sup>‡</sup>, Ernie Chang and Vera Demberg"
     venue: "In Proceedings of The Workshop on Automatic Summarization for Creative Writing"
     paper_pdf: "https://aclanthology.org/2022.creativesumm-1.9/"
