@@ -1,7 +1,7 @@
 papers:
   - title: "SciNews: From Scholarly Complexities to Public Narratives -- A Dataset for Scientific News Report Generation"
     authors: "<b>Dongqi Pu</b>, Yifan Wang, Jia Loy and Vera Demberg"
-    venue: "The Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), 2024"
+    venue: "Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), 2024"
     # paper_pdf: "https://aclanthology.org/2023.acl-srw.1/"
     # info: "projects/ChatGPT_vs_Human"
 #    slides: "/assets/publications/EAMT2022/slides.pdf"
