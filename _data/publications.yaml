@@ -8,6 +8,12 @@ papers:
     # poster: "/assets/publications/ACL2023/ACL_SRW_Poster.pdf"
     selected: y
 
+  - title: "SciNews: From Scholarly Complexities to Public Narratives -- A Dataset for Scientific News Report Generation"
+    authors: "<b>Dongqi Pu</b>, Yifan Wang, Jia Loy and Vera Demberg"
+    venue: "Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), 2024"
+    selected: y
+
+
   - title: "Incorporating Distributions of Discourse Structure for Long Document Abstractive Summarization"
     authors: "<b>Dongqi Pu</b>, Yifan Wang, and Vera Demberg"
     venue: "Association for Computational Linguistics (ACL), 2023"
