@@ -1,6 +1,6 @@
 ---
 layout: project
-title: SciNews\: From Scholarly Complexities to Public Narratives -- A Dataset for Scientific News Report Generation
+title: "SciNews: From Scholarly Complexities to Public Narratives -- A Dataset for Scientific News Report Generation"
 
 [//]: # (subtitle: "Randomizing Over Randomized Experiments")
 ---
