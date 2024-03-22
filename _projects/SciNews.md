@@ -16,6 +16,7 @@ Scientific news reports serve as a bridge, adeptly translating complex research 
 
 
 #### Dataset:
-Dataset is available at: https://huggingface.co/datasets/dongqi-me/SciNews
+
+Dataset is available at: [https://huggingface.co/datasets/dongqi-me/SciNews](https://huggingface.co/datasets/dongqi-me/SciNews)
 
 #### Citation:
